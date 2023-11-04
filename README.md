@@ -1,5 +1,5 @@
 # pixiapp
-
+尝试使用Canvas/Pixi写一些动画或特效
 ## Project setup
 ```
 npm install
